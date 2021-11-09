@@ -1,0 +1,126 @@
+.outborder{
+	width: 320px;
+	height: 430px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+	margin: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+}
+
+
+.describe{
+	display: inline;
+}
+.switch{
+	display: inline-block;
+	position: absolute;
+	right: 0;
+}
+.switch a{
+	color: black;
+	text-decoration: none;
+}
+
+
+img{
+	object-fit: contain;
+	width: 20px;
+	height: 20px;
+}
+
+.tele{
+	height: 25px;
+	top: 30px;
+	left: 50px;
+	position: absolute;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	width: 70%;
+}
+.tele input{
+	border-style: none;
+	height: 25px;
+	width: 60%;
+}
+
+.password{
+	position: absolute;
+	top: 70px;
+	left: 50px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	width: 70%;
+}
+.password input{
+	border-style: none;
+	height: 25px;
+	width: 60%;
+}
+
+.forget{
+	position: absolute;
+	right: 44px;
+	font-size: 10px;
+	top:105px;
+}
+.forget a{
+	text-decoration: none;
+	color: orange;
+}
+
+.submit{
+	border-color: orange;
+	position: absolute;
+	top: 135px;
+	left: 50px;
+	width: 70%;
+	height: 25px
+	font-size: 25px;
+	background-color: orange;
+}
+
+.register{
+	position: absolute;
+	top: 170px;
+	left: 50px;
+	font-size: 15px;
+}
+.register a{
+	text-decoration: none;
+	color: orange;
+}
+
+.agree{
+	position: absolute;
+	top: 205px;
+	font-size: 15px;
+	left: 50px;
+	right: 40px;
+}
+.agree a{
+	text-decoration: none;
+	color: orange;
+}
+
+.cooperate{
+	position: absolute;
+	top: 325px;
+	left: 80px;
+}
+.img {
+	position: absolute;
+	left: 37%;
+	display: inline-block;
+}
+
+.cooperate p{
+	display: inline;
+}

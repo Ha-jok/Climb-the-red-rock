@@ -1,0 +1,112 @@
+
+a {
+	color: black;
+	text-decoration: none;
+}
+.interlinkage a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+.ico {
+	top: 200px;
+	left: 500px;
+	height: 200px;
+	position: absolute;
+    width: 700px;
+
+}
+.input{
+	border-style: solid;
+	border-color: pink;
+	position: absolute;
+	width: 90%;
+	height: 30px;
+	display: inline;
+
+}
+.inputs{
+	height: 35px;
+	width: 175px;
+	background-color: pink;
+	border-color: pink;
+	position: absolute;
+	right: -120px;
+}
+
+
+
+.select{
+	float: right;
+	display: inline-block;
+}
+.select:hover .selectss{
+	display: block;
+}
+.selects{
+	border: none;
+	font-size: 16px;
+	background-color: white;
+}
+.selectss{
+	display: none;
+}
+.selectss a{
+	display: block;
+}
+.selectss a:hover{
+	color: pink;
+}
+
+
+.set{
+	float: right;
+	display: inline-block;
+	position: relative;
+}
+.sets{
+	border: none;
+	font-size: 16px;
+	background-color: white;
+}
+.setss{
+	display: none;
+}
+.setss a{
+	display: block;
+}
+.setss a:hover{
+	color: pink;
+}
+.set:hover .setss{
+	display: block;
+}
+
+
+
+.personal{
+	position: absolute;
+	left: 750px;
+	bottom: 15%;
+}
+.personal a{
+	display: block;
+    font-size: 30px;
+    position: absolute;
+    left: 30%;
+}
+
+.pagefooter{
+	position: absolute;
+	bottom: 5%;
+	left: 750px;
+}
+.pagefooter a{
+	color: gray;
+}
+
+.pagefooter a:hover {
+	color: black;
+}
+
+

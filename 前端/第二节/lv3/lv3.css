@@ -1,0 +1,67 @@
+body {
+    background-color: gray;
+}
+
+.fa {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.out {
+    width: 400px;
+    height: 150px;
+    position: relative;
+    background-color: rgba(32, 29, 29, 0.637);
+    y;
+}
+
+
+.top {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 20px;
+    position: relative;
+    background-color: black;
+}
+.ti {
+    font-size: 10px;
+    color: white;
+    background-color:rgba(32, 29, 29, 0.637) ;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.set {
+    position: absolute;
+    left: 360px;
+}
+.sel {
+    position: absolute;
+    left: 380px;
+}
+
+
+.in {
+    width: 400px;
+    height: 130px;
+    overflow: scroll;
+}
+
+.tit {
+    position: relative;
+    left: 500px;
+    top: 400px;
+    width: 180px;
+    height: 30px;
+    background-color: white;
+}
+em {
+    position: absolute;
+    left: 25px;
+}
