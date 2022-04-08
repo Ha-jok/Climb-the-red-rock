@@ -5,67 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34c331d-7e04-4594-ad3e-bed1f4cd3cf8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv1/lv1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv1/lv1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv1/web女团.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv1/图标.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/imgs/password.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/imgs/qq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/imgs/shouji.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/imgs/weibo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/lv2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第一节/lv2/lv2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第三节/lv0/lv0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv1/lv1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv1/lv1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv2/lv2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv2/lv2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv3/img/select.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv3/img/set.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv3/img/war.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv3/lv3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/第二节/lv3/lv3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/api/Recharge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/api/login.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/api/regist.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/api/router.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/cmd/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/dao/Recharge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/dao/insert.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/dao/link.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/dao/read.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/model/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/service/judge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/service/login.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/service/recharge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/FinalExam/业务题/3G含金量代码/service/regist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fdjio" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/message-board" beforeDir="false" afterPath="$PROJECT_DIR$/后端/message-board" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/message-board/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/后端/message-board/cmd/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/message-board/go.mod" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/message-board/go.sum" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/message-board/mysqlCmd.md" beforeDir="false" afterPath="$PROJECT_DIR$/后端/message-board/mysqlCmd.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/前端/lv1/img/web女团.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/前端/lv1/lv1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/前端/lv1/lv1html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve0/hello.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve0/hello.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve1/简单计算器.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve1/简单计算器.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve2/账号密码匹配.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve2/账号密码匹配.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve3/数组排序.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve3/数组排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve4/分金币.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/国庆预习/后端/leve4/分金币.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/日志/搭建博客.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/日志/搭建图床.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第一节/lv1/lv1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第一节/lv2/lv2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第一节/lv3/lv3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第二节/lv0/lv0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第二节/lv1/lv1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第二节/lv2/level2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/运维/第二节/lv3/level3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +28,14 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../GObasic" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -109,13 +63,29 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (1)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Climb the red rock" />
       <working_directory value="$PROJECT_DIR$/后端/redis" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/后端/redis/cmd/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Climb the red rock" />
+      <working_directory value="$PROJECT_DIR$/计算机网络/test" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/计算机网络/test/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Climb the red rock" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/计算机网络/lv1/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -128,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
@@ -147,6 +119,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
